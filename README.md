@@ -1,1 +1,1 @@
-My first readme
+Uzoma can code
